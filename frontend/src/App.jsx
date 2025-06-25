@@ -29,7 +29,6 @@ function App() {
       </div>
     );
 
-  console.log("authUser: ", authUser);
   return (
     <div data-theme={theme}>
       <Navbar />
